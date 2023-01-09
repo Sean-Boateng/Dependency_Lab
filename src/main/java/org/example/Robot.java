@@ -2,7 +2,7 @@ package org.example;
 import org.example.Weapon;
 
 
-public class Robot {
+public class Robot implements Attacker{
 
     public String name;
 
